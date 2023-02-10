@@ -1,0 +1,4 @@
+Product Name
+Product Part Number
+Product Serial
+Product Manufacturer
